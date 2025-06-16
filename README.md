@@ -53,8 +53,20 @@ cd FIRE-EYE
 chomd + x*
 python3 FIRE-EYE.py
 ````
+## 📥 One-Line Installation (using `wget`)
 
----
+Install FIRE-EYE easily with a single command:
+
+```bash
+wget https://raw.githubusercontent.com/ADIRTTA/FIRE-EYE/main/FIRE-EYE.sh -O FIRE-EYE.sh && chmod +x FIRE-EYE.sh && ./FIRE-EYE.sh
+````
+
+After installation, just run:
+
+```bash
+FIRE-EYE
+```
+
 
 ## 📝 Sample Output
 
