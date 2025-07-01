@@ -7,7 +7,7 @@
 <p align="center">
   A powerful Firewall & Security Analyzer built for hackers, penetration testers, and cybersecurity researchers.
   <br><br>
-  Made with ❤️ by <b>Adi Barua (ADIRTTA)</b>
+  Made with ❤️ by <b> BLACK ZERO (ADIRTTA)</b>
 </p>
 
 ---
