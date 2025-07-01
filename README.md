@@ -132,8 +132,6 @@ Do not use it to scan websites or systems you do not own or have permission to a
 
 This project is licensed under the MIT License.
 
-```
-
 ---
 
 
