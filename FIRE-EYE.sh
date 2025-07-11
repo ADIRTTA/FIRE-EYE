@@ -19,4 +19,4 @@ chmod +x $PREFIX/bin/FIRE-EYE
 
 # Success message
 echo -e "\n✅ Installed successfully!"
-echo "🔓 Type 'FIRE-EYE' to start scanning!"
+echo "🔓 Type FIRE-EYE to start scanning!"
